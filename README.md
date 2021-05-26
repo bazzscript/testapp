@@ -6,4 +6,4 @@ my first Flutter project.
 
 This project is my starting point for a Mobile application development, it is a simple quiz app.
 
-![A Quiz App](../main/lib/img/t.png)
+![A Quiz App](https://github.com/emexbazz/testapp/blob/master/lib/img/t.png)
